@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850580963189",
+    "project_id": "movies-8c701",
+    "storage_bucket": "movies-8c701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850580963189:android:75962c599d59d239e31d3c",
+        "android_client_info": {
+          "package_name": "hanu.movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2FXCgJhMibGUAkTHyq7uZKVzioS8HSyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
